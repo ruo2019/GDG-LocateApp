@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GDGFinder-Starter.iml" filepath="$PROJECT_DIR$/.idea/modules/GDGFinder-Starter.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GDGFinder-Starter.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GDGFinder-Starter.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/GDG-Locate.iml" filepath="$PROJECT_DIR$/.idea/modules/GDG-Locate.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/GDG-Locate.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/GDG-Locate.app.iml" />
     </modules>
   </component>
 </project>
