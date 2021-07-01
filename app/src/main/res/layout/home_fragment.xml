@@ -49,6 +49,7 @@
                 android:layout_width="0dp"
                 android:layout_height="wrap_content"
                 android:layout_marginTop="16dp"
+                android:fontFamily="@font/architects_daughter"
                 android:text="@string/about_google_developer_groups"
                 android:textColor="#FF555555"
                 android:textSize="24sp"
