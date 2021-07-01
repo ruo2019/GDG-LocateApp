@@ -19,7 +19,9 @@
     xmlns:tools="http://schemas.android.com/tools">
 
     <data>
-
+        <variable
+            name="viewModel"
+            type="com.example.android.gdgfinder.home.HomeViewModel" />
     </data>
 
     <androidx.coordinatorlayout.widget.CoordinatorLayout
@@ -125,6 +127,7 @@
             android:layout_height="wrap_content"
             android:layout_gravity="bottom|end"
             android:layout_margin="16dp"
-            app:srcCompat="@drawable/ic_gdg"/>
+            app:srcCompat="@drawable/ic_gdg"
+            android:onClick="@{() -> viewModel.onFabClicked()}"/>
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </layout>
