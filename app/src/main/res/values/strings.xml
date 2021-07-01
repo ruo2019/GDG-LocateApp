@@ -15,7 +15,7 @@
   -->
 
 <resources>
-    <string name="app_name">GDG</string>
+    <string name="app_name">GDG-Locate</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
     <string name="add_gdg">"Couldn't find a GDG in your region? Great, go ahead and start one. Fill the form below and

@@ -40,7 +40,7 @@
         emulador, abra la aplicación Mapas para habilitar los servicios de ubicación.
     </string>
     <string name="hello_blank_fragment">Hola fragmento en blanco</string>
-    <string name="app_name">GDG</string>
+    <string name="app_name">GDG-Locate</string>
     <string name="stage_image_description">Foto desde el escenario de un devfest.</string>
     <string name="submit_button_description">Botón para enviar formulario</string>
     <string name="form_name_description">introduzca su nombre</string>
