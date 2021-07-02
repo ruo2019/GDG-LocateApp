@@ -120,15 +120,21 @@
                     android:layout_height="wrap_content"
                     android:orientation="vertical"
                     app:layout_constraintGuide_end="26dp" />
+
             </androidx.constraintlayout.widget.ConstraintLayout>
         </androidx.core.widget.NestedScrollView>
 
-        <com.google.android.material.floatingactionbutton.FloatingActionButton
+        <ImageButton
+            android:id="@+id/imageButton2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_gravity="bottom|end"
-            android:layout_margin="@dimen/spacing_normal"
-            app:srcCompat="@drawable/ic_gdg"
-            android:onClick="@{() -> viewModel.onFabClicked()}"/>
+            android:background="@drawable/fab_back"
+            android:padding="20dp"
+            app:srcCompat="@drawable/ic_gdg_small"
+            android:layout_marginEnd="16dp"
+            android:layout_marginBottom="@dimen/spacing_normal"
+            android:onClick="@{() -> viewModel.onFabClicked()}"
+            android:layout_gravity="bottom|end"/>
+
     </androidx.coordinatorlayout.widget.CoordinatorLayout>
 </layout>
