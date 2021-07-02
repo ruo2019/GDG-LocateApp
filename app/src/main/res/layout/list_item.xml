@@ -59,7 +59,7 @@
             android:textAppearance="?textAppearanceHeadline6"
             app:layout_constraintBottom_toBottomOf="@+id/gdg_image"
             app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toEndOf="@+id/gdg_image"
+            app:layout_constraintLeft_toEndOf="@+id/gdg_image"
             app:layout_constraintTop_toTopOf="@+id/gdg_image"
             app:layout_constraintVertical_chainStyle="packed"
             tools:text="GDG Mountain View is really long so it will wrap in tools" />
