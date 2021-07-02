@@ -18,8 +18,7 @@
     <string name="app_name">GDG-Locate</string>
 
     <string name="hello_blank_fragment">Hello blank fragment</string>
-    <string name="add_gdg">"Couldn't find a GDG in your region? Great, go ahead and start one. Fill the form below and
-        expect to hear from us shortly! "
+    <string name="add_gdg">"Couldn't find a GDG in your region? Great, go ahead and start one. Fill the form below and expect to hear from us shortly! "
     </string>
     <string name="application_submitted">Got your application request!! Oh well, not really. This is a test form just
         for educational purposes. If you really want to submit your application please visit the website!
@@ -46,7 +45,7 @@
     <string name="stage_image_description">Photo from stage from a devfest</string>
     <string name="submit_button_description">Button to submit form</string>
     <string name="form_name_description">enter your name</string>
-    <string name="motivation">Tell us a bit more about why do you want to start a GDG</string>
+    <string name="motivation">Tell us more about why you want to start a GDG</string>
     <string name="your_name_label">Your name</string>
     <string name="email_label">e-mail</string>
     <string name="city_label">city</string>

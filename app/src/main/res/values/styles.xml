@@ -34,5 +34,4 @@
         <item name="android:textSize">18sp</item>
         <item name="textAppearanceHeadline6">@style/TextAppearance.CustomHeadline6</item>
     </style>
-
 </resources>
