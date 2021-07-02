@@ -40,7 +40,7 @@
                     android:layout_height="match_parent"
                     android:contentDescription="@string/app_name"
                     app:srcCompat="@drawable/logo"
-                    app:tint="?attr/colorOnPrimary" />
+                    app:tint="?attr/colorOnSecondary" />
             </androidx.appcompat.widget.Toolbar>
 
             <fragment
