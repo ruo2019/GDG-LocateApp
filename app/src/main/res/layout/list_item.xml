@@ -56,10 +56,11 @@
             android:layout_marginEnd="@dimen/spacing_normal"
             android:gravity="center_vertical"
             android:text="@{chapter.name}"
-            android:textAppearance="?textAppearanceHeadline6"
+            android:textAppearance="?attr/textAppearanceHeadline6"
             app:layout_constraintBottom_toBottomOf="@+id/gdg_image"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toEndOf="@+id/gdg_image"
+            android:textSize="20dp"
             app:layout_constraintTop_toTopOf="@+id/gdg_image"
             app:layout_constraintVertical_chainStyle="packed"
             tools:text="GDG Mountain View is really long so it will wrap in tools" />
