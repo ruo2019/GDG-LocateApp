@@ -4,7 +4,7 @@
     <group>
         <clip-path android:pathData="M-23.2,-14.647h107.384v152.352h-107.384z M 0,0"/>
         <path android:fillColor="#ca00ed" android:pathData="M48.6,83.8l-25.6,44.2l21.9,0l14.6,-25.3l-0.3,-0.5z"/>
-        <path android:fillColor="#0ec76d" android:pathData="M37.1,64l11.5,19.8l-25.6,44.2l-23,0z"/>
+        <path android:fillColor="#0eb76d" android:pathData="M37.1,64l11.5,19.8l-25.6,44.2l-23,0z"/>
         <path android:fillAlpha="0.2" android:fillColor="#c203fc"
             android:pathData="M44.9,127l-21.3,0l-0.6,1l21.9,0l14.6,-25.3l-0.3,-0.5z" android:strokeAlpha="0.2"/>
         <path android:fillAlpha="0.2" android:fillColor="#263238"
